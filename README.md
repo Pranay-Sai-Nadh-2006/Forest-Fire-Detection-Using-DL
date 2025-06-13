@@ -1,1 +1,1 @@
-# Forest-Fire-Detection-Using-DL
+# Forest-Fire-Detection
